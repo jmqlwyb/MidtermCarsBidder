@@ -4,7 +4,7 @@ import { Link } from "@inertiajs/vue3";
 
 <template>
     <div>
-        <nav class="flex items-center justify-between p-4 bg-black">
+        <nav class="flex items-center justify-between p-4 dark:bg-gray-400">
             <div class="text-xl font-bold">
                 <span class="text-white">CAR |</span>
                 <span class="text-red-700"> BIDDERS</span>
